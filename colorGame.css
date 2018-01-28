@@ -1,0 +1,28 @@
+body {
+	background-color: #232323;
+}
+.square {
+	background-color: #232323;
+	width: 30%;
+	padding-top: 30%;
+	float: left;
+	margin: 1.66%
+}
+#container {
+	max-width: 600px;
+	margin: 0 auto;
+}
+h1 {
+	background-color: steelblue;
+}
+#header {
+	heigth: 30px;
+	background-color: #ffffff;
+	text-align: center;
+	color: steelblue;
+}
+
+#bt {
+	color: steelblue;
+	background-color: #ffffff;
+}
